@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "b9566ad6a270575e3f0a7a8d",
+  "owner": "shvyrwg",
+  "repo": "page-da558de501963b182d8d6366",
+  "title": "Miru",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "da558de501963b182d8d6366",
+      "a": "Miru",
+      "b": "clash verge官网中文",
+      "entity": "Miru",
+      "brand": "Miru",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "56ae6238a752e0708a0356cd0adfb4e6a8fb3736c675b51c7b32fe63c99d3878",
+      "content": {
+        "primary_entity": "Miru",
+        "keyword1": "Miru",
+        "keyword2": "clash verge官网中文",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，在 Windows、macOS、Android、iOS 与路由器上完成订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "先看设备数量与月流量，再决定月付或年付；年付方案比月付节省两个月费用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更稳",
+          "AI_DESCRIPTION": "，它提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB，设备数覆盖 3 台到 20 台。旗舰版包含 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版支持企业定制路由。",
+          "AI_FEATURES_INTRO": "从流量、设备数与订阅周期三个角度比较，找到适合日常使用的档位。",
+          "AI_FEATURES_TITLE": "套餐选择与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备，适合单人浏览网页与基础流媒体；旗舰版每月 300GB、支持 5 台设备，增加全节点原生流媒体解锁与 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB、支持 20 台设备同时在线，提供 VIP 专属高带宽节点、企业定制路由与专属客户经理服务，适合多人协作环境。",
+          "AI_FEATURE_TEXT_3": "三档套餐均可月付或年付，年付仅按十个月计费；订阅周期越长，单月成本越低，适合长期稳定使用的用户。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选档",
+          "AI_FEATURE_TITLE_2": "多人团队扩展",
+          "AI_FEATURE_TITLE_3": "月付年付灵活切换",
+          "AI_GUIDE_INTRO": "确认设备数量与所需月流量后，选择对应套餐并按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "Miru 提供基础版、旗舰版与团队版三档海外加速方案，月流量从 100GB 到 1000GB，支持 3 到 20 台设备同时在线。旗舰版包含 IPLC 专线游戏加速优化，团队版支持企业定制路由与专属客户经理服务。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多设备加速",
+          "AI_HIGHLIGHT_1": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付按十个月计费",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备，月付 ¥15，按年付仅需 ¥150/年；旗舰版每月 300GB、5 台设备，月付 ¥35，按年付仅需 ¥350/年，含 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备，月付 ¥85，按年付仅需 ¥850/年，支持企业定制路由。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量与月流量需求，在基础版、旗舰版与团队版之间选择合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与计费周期，确认满足使用场景。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅，在 Windows、macOS、Android、iOS 或路由器上完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Miru 海外加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Miru 支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "Miru 提供手机、电脑和路由器等多个平台的客户端，具体可用版本以客户端下载页说明为准，安装后通过订阅链接导入配置。",
+          "AI_FAQ_QUESTION_2": "套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_2": "套餐按订阅周期计费，如需更高流量或更多设备数，可在当前周期结束后选择更高档位，具体操作参考账户管理说明。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付一次性支付全年费用，月均成本低于按月订阅。基础版年付 150 元，旗舰版 350 元，团队版 850 元。",
+          "AI_FAQ_QUESTION_4": "连接设备数怎么计算？",
+          "AI_FAQ_ANSWER_4": "同时在线设备数按套餐档位限制，基础版 3 台、旗舰版 5 台、团队版 20 台，同一时间超出数量可能无法连接。",
+          "AI_FAQ_QUESTION_5": "订阅链接如何导入客户端？",
+          "AI_FAQ_ANSWER_5": "复制订阅链接后，在客户端的订阅管理或配置导入选项中粘贴，更新节点列表即可使用，具体路径参考该客户端的帮助文档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5bc195a1d9fbe6158e5769a9811c780ef4d425e307fec33ce2b85d1cafeadd25",
+    "sitemap.xml": "ce7d640d6e95b96a50298b527033f0c4ebe462df1bcf6a3b57b4eda2081e6a61",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "daa537e499bda7bc867d56f83f66f3e6f1a62dca1299b8faaa2f12b54e1090cc"
+}
